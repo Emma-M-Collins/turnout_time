@@ -24,4 +24,8 @@ The National Fire Protection Association (NFPA) recommends a 60 second turnout t
 Engine 75 is, on average, 15 seconds faster than Engine 71, while Engine 76 is, on average, 15 seconds slower than Engine 71 (Right).
 On average, EMS-ECHO calls have a 10 second faster turnout time than auto accidents, while hazmat calls have a 10 second slower turnout time than auto accidents (Left).
 
-### Conclusions
+### Conclusions/Future Work
+
+* Turnout time has improved since 2014 but has slowly increased over the years.
+* Across all years, on average, the battalion cheif and Engine 76 are much slower than other apparatuses, while Engine 75 is much faster.
+* Future Analysis would involve more data (such as recent hires/retirements and injuries) and a time series analysis across time of calls and/or year.
