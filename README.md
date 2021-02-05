@@ -13,5 +13,5 @@ The National Fire Protection Association (NFPA) recommends a 60 second turnout t
 ### Model Creation
 
 * Since most of the variables were categorical, there were upwards of 100 dummy variables.  Thus, BIC stepwise selection was used to determine the best model because it penalizes models with more terms.
-![](https://github.com/Emma-M-Collins/turnout_time/blob/main/FinalModelCoeff.png)
+![](https://github.com/Emma-M-Collins/turnout_time/blob/main/FinalModel.png)
 * The final model has skewed errors, indicating it did not predict high turnout times (three minutes or greater) well.  However, since these long times are uncommon and we are more concerned about inference instead of prediction, we are not too concerned. 
