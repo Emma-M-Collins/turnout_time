@@ -7,7 +7,7 @@
 ![](https://github.com/Emma-M-Collins/turnout_time/blob/main/EDAPlots.png)
 The National Fire Protection Association (NFPA) recommends a 60 second turnout time (blue) for EMS calls and 80 seconds (red) for complex calls.
 
-* Raw data was provided by TFD from 2014-2018, including over 100,000 observations.  Through discussion with TFD personell, hundreds of variables were narrowed down to less than 15 to be considered in the model.  
+* Raw data was provided by TFD from 2014-2018, including over 100,000 observations.  Through discussion with TFD personnel, hundreds of variables were narrowed down to less than 15 to be considered in the model.  
 * **The Goal**: Determine which variables, such as apparatus, shift, station, and call type, result in longer turnout times.
 
 ### Model Creation
