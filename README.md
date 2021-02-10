@@ -1,6 +1,7 @@
 # A Statistical Analysis of Thornton Fire Department Turnout Time
 
 * Consulting with Thornton Fire Department (TFD) of Thornton, Colorado in the Denver Metro area.
+* Statistical process and results were presented to City of Thornton officials and statisticians.
 * TFD wanted to improve turnout time, the time it takes a firefighting crew to put on the proper gear and leave the station after being notified of a call.
 * Focus on *inference* instead of *prediction*.
 
